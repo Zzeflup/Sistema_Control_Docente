@@ -1,0 +1,31 @@
+form{
+    width: 400px;
+    margin:auto;
+}
+
+#somos-proya .container{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#somos-proya .texto{
+    width: 50%;
+    max-width: 600px;
+    text-align: initial;
+    padding-left: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#somos-proya h2{
+    margin-top: 0px;
+}
+
+#somos-proya .img-container{
+    background-image: url("C:\xampp\htdocs\ProyectoWeb\assets\img\calendario-mayo-2023-501ld.jpg");
+    background-size: cover;
+    background-position: center center;
+    height: 500px;
+    width: 400px; 
+}
